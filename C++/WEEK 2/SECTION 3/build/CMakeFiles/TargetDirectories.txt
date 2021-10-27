@@ -1,0 +1,4 @@
+/home/paulstein/opencv/Example_course/C++/WEEK 2/SECTION 3/build/CMakeFiles/edit_cache.dir
+/home/paulstein/opencv/Example_course/C++/WEEK 2/SECTION 3/build/CMakeFiles/crop_image.dir
+/home/paulstein/opencv/Example_course/C++/WEEK 2/SECTION 3/build/CMakeFiles/rebuild_cache.dir
+/home/paulstein/opencv/Example_course/C++/WEEK 2/SECTION 3/build/CMakeFiles/video_display.dir

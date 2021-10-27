@@ -1,0 +1,3 @@
+/home/paulstein/opencv/Example_course/C++/MUSK IMAGE/build/CMakeFiles/edit_cache.dir
+/home/paulstein/opencv/Example_course/C++/MUSK IMAGE/build/CMakeFiles/rebuild_cache.dir
+/home/paulstein/opencv/Example_course/C++/MUSK IMAGE/build/CMakeFiles/musk.dir

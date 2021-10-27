@@ -1,0 +1,3 @@
+/home/paulstein/opencv/Example_course/C++/WEEK 1/SECTION 3/build/CMakeFiles/edit_cache.dir
+/home/paulstein/opencv/Example_course/C++/WEEK 1/SECTION 3/build/CMakeFiles/rebuild_cache.dir
+/home/paulstein/opencv/Example_course/C++/WEEK 1/SECTION 3/build/CMakeFiles/contrast_boy.dir

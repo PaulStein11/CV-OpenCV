@@ -1,0 +1,3 @@
+/home/paulstein/opencv/Example_course/C++/WEEK 1/SECTION 5/Bitwise example_ MUSKGlass/build/CMakeFiles/edit_cache.dir
+/home/paulstein/opencv/Example_course/C++/WEEK 1/SECTION 5/Bitwise example_ MUSKGlass/build/CMakeFiles/rebuild_cache.dir
+/home/paulstein/opencv/Example_course/C++/WEEK 1/SECTION 5/Bitwise example_ MUSKGlass/build/CMakeFiles/musk_glasses.dir
